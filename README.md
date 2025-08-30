@@ -106,9 +106,9 @@ curl -X DELETE http://localhost:8080/api/files/file.pdf
 ## 📂 Screenshots & Demo
 
 Add your screenshots to the `./screenshots/` directory:
-- `./screenshots/home.png` - Home page
-- `./screenshots/upload.png` - Upload flow
-- `./screenshots/chat.png` - Chat interface
+- ![Home Page](./screenshots/home.png)
+- ![Upload Page](./screenshots/upload.png)
+- ![Chat Page](./screenshots/chat.png)
 
 ### 🎥 Demo Video
 [Replace with your YouTube video link](https://www.youtube.com/watch?v=VIDEO_ID)
