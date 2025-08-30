@@ -7,7 +7,6 @@ Retrieval-Augmented Generation pipeline using **React**, **Node.js**, **LangChai
 ![Orchestration: LangChain](https://img.shields.io/badge/Orchestration-LangChain-FF6B35)
 ![VectorDB: Qdrant](https://img.shields.io/badge/VectorDB-Qdrant-DC382D)
 ![LLM: Gemini](https://img.shields.io/badge/LLM-Gemini-4285F4)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 ## 🚀 Key Features
 
@@ -111,9 +110,8 @@ Add your screenshots to the `./screenshots/` directory:
 - ![Chat Page](./screenshots/chat.png)
 
 ### 🎥 Demo Video
-[Replace with your YouTube video link](https://www.youtube.com/watch?v=VIDEO_ID)
+[YouTube video link](https://youtu.be/ESFQcls1_VU)
 
-*Replace `VIDEO_ID` with your uploaded YouTube video's ID.*
 
 ## 📌 Roadmap
 
