@@ -8,6 +8,9 @@ Retrieval-Augmented Generation pipeline using **React**, **Node.js**, **LangChai
 ![VectorDB: Qdrant](https://img.shields.io/badge/VectorDB-Qdrant-DC382D)
 ![LLM: Gemini](https://img.shields.io/badge/LLM-Gemini-4285F4)
 
+Backend repo - https://github.com/zanzo2003/DocuBot_backend
+Frontend repo - https://github.com/zanzo2003/DocuBot_frontend
+
 ## 🚀 Key Features
 
 - **Advanced RAG pipeline**: prompt enhancement → retrieval → grounded generation
